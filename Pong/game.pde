@@ -62,8 +62,8 @@ void paddles() {
   if (righty < 0) {
     righty = 0;
   }
-  if (righty > height-0) {
-    righty = height-0;
+  if (righty > height) {
+    righty = height;
   }
 }
 
